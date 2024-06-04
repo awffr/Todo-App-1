@@ -18,4 +18,4 @@ const Todos = ({ todos }) => {
     },
   }
   
-  export default Todos
+  export default Todos 
